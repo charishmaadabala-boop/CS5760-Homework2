@@ -1,3 +1,7 @@
+# CS5760 Homework 2
+# Part II - Q1 Bigram Language Model
+# Student Name: CHARISHMA ADABALA
+# 700-700769626
 from collections import defaultdict
 
 corpus = [
