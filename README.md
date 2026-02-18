@@ -166,7 +166,27 @@ Macro-averaged Recall = 0.36
 Micro-averaged Precision = 35/90 = 0.39  
 Micro-averaged Recall = 35/90 = 0.39  
 
+## Interpretation
+
+Macro-averaging treats each class equally, regardless of how many examples it has.  
+Micro-averaging gives more importance to classes with more examples.
+
 ---
+
+## Programming Implementation
+
+The Python file `Q5_metrics.py`:
+
+- Accepts the confusion matrix as input  
+- Computes per-class precision and recall  
+- Computes macro-averaged precision and recall  
+- Computes micro-averaged precision and recall  
+- Prints all results clearly  
+
+To run:
+
+python Q5_metrics.py
+
 
 ## Part II – Programming
 
