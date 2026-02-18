@@ -1,4 +1,7 @@
-
+# CS5760 Homework 2
+# Q5 Confusion Matrix Metrics
+# Student Name: CHARISHMA ADABALA
+# 700-700769626
 ## Q2 – Harms of Classification (Written Answers)
 
 1. Representational Harm
